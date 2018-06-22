@@ -1,5 +1,5 @@
 # NTriPath
-"An integrative somatic mutation analysis to identify pathways linked with survival outcomes across 19 cancer types", Bioinformatics, 2015. 
+Network regularized sparse non-negative TRI matrix factorization for PATHway identification (NTriPath)
 
 NTriPath is an extension of nonnegative matrix tri-factorization that is designed to identify altered pathways from mutation data. 
 It can handle the sparsity of the somatic mutation matrix and the incompleteness of current pathway database annotation 
