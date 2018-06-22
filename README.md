@@ -1,5 +1,4 @@
 # NTriPath
-<<<<<<< HEAD
 "An integrative somatic mutation analysis to identify pathways linked with survival outcomes across 19 cancer types", Bioinformatics, 2015. 
 
 NTriPath is an extension of nonnegative matrix tri-factorization that is designed to identify altered pathways from mutation data. 
@@ -18,9 +17,3 @@ by incorporating the prior knowledge from human gene–gene interaction networks
  1 is from the human gene–gene interaction network (Suthram etal., 2010) and 2-4 are are from MsigDB (Subramanian etal., 2005). 
 - Gene–gene interaction (A: 12456 genes × 12456 genes): ```ppiMatrixTF.mat``` (Zhang et al., 2011, Keshava Prasad et al., 2009,  Rossin et al. 2011)
 - Gene name: ```gene_name_info.mat```
-=======
-An integrative somatic mutation analysis to identify pathways linked with survival outcomes across 19 cancer types
- 
-## Requirements
-- biocarta dataset version3:  ```bipartite_c2_biocarta_v3_broad_CNA.mat```
->>>>>>> 99571c9e23988ffaa020dcd78e67a5768a871640
