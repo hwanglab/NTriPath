@@ -32,7 +32,11 @@ clc; close all; clear all;
 %--- general setting()
 % we consider different pathway databases 
 m_cPriorNames = {'ppi_module', 'kegg', 'reactome', 'biorcrata'};
+<<<<<<< HEAD
 m_str_prior = m_cPriorNames{2};
+=======
+m_str_prior = m_cPriorNames{1};
+>>>>>>> 99571c9e23988ffaa020dcd78e67a5768a871640
 
 %--- load mutation data
 % X: Somatic mutation data (#patients X #genes)
